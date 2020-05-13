@@ -1,6 +1,6 @@
 ### Intro
 
-WX message extractor scripts, not guaranteed to work
+Old scripts to extract messages from WX, not guaranteed to work
 
 ### To compile sqlcipher 2.1 on MacOS
 
